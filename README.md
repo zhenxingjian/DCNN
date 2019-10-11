@@ -1,6 +1,6 @@
 # DCNN
 This is the published code for 
-Dilated Convolutional Neural Networks for Sequential Manifold-valued Data (ICCV 2019).
+[Dilated Convolutional Neural Networks for Sequential Manifold-valued Data *ICCV 2019*](https://arxiv.org/abs/1910.02206).
 
 The medical dataset cannot be published because of the private issue.
 
