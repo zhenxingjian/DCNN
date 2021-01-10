@@ -11,3 +11,6 @@ When running the codes, be sure that run Preprocessed_UCF11.py first.
 Then run the manifoldDCNN_forUCF11.py.
 
 The DTI and the ODF is for reference if you have your own datasets.
+
+### Video
+The video introduction of this paper can be found [here](https://www.youtube.com/watch?v=_nT2hrYQL0w)
